@@ -1,0 +1,1 @@
+const DOMAIN = 'https://64ad63b6b470006a5ec5e1ae.mockapi.io/user';
